@@ -1,119 +1,156 @@
-<h2 align="center">Building in Public. Learning in Progress.</h2>
+<h1 align="center">Anisha Ranjan</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280"/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
 </p>
 
 <p align="center">
-This GitHub is not a portfolio.<br/>
-It’s a record of learning, mistakes, and steady improvement.
+"Full-Stack Developer"
 </p>
 
 ---
 
-## 👩‍💻 About This Space
+## 💖 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150"/>
+</p>
 
-I’m a **BTech Computer Science Engineering student (2nd year)**.
+🎓 **Not showcasing expertise.**  
+🧠 **Building it.**  
+🛠 **In public.**
 
-This profile reflects:
-- concepts I’m currently learning  
-- code I’m improving, not perfecting  
-- projects that evolve as my understanding grows  
+I’m a **Computer Science Engineer**.  
+This GitHub is where I grow my skills step by step — quietly, consistently, and honestly.  
 
-I believe **real progress is visible, messy, and honest**.
+I’m focused on learning fundamentals, improving my thinking,  
+and becoming better with every iteration.  
+Everything here is **work in progress**, and that’s intentional.
 
-Everything here is **work in progress** — intentionally.
-
----
-
-## 🧠 What I’m Learning (Right Now)
-
-### Programming
-- Java ☕ 
-- C
-- Python 
-- My Sql
-- Adobe
-- 
-
-### Core Computer Science
-- Data Structures & Algorithms 🚧
-- Object-Oriented Programming
-- DBMS
-- Operating Systems 🚧
-- Computer Networks 🚧
-
-### Web Foundations
-- HTML
-- CSS
-- JavaScript
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200"/>
+</p>
 
 ---
 
-## 🛠 How I Work
+## 🧠 What I’m Learning (Actively)
 
-<img align="right" width="260" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/l4HodBpDmoMA5p9bG/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif" width="200"/>
+</p>
 
-- I write small programs and improve them
-- I revisit old code instead of deleting it
-- I focus on **logic before libraries**
-- I use Git to track thinking, not just files
+### 💻 Programming & Tools
+- Java  
+- C  
+- Python  
+- Adobe  
+- MySQL  
 
-Tools:
+### 🧠 Core Computer Science
+- Data Structures & Algorithms 🚧  
+- Object-Oriented Programming  
+- DBMS  
+- Operating Systems 🚧  
+- Computer Networks 🚧  
+
+### 🌐 Web Basics
+- HTML  
+- CSS  
+- Bootstrap  
+- JavaScript  
+- React  
+
+---
+
+## 🛠 Tools I Use
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYyda2vZTq0zv0k/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/xT0GqF8b0IhY5Xm9sA/giphy.gif" width="180"/>
+</p>
+
 - Git & GitHub  
 - VS Code  
-- Terminal  
+- Command Line / Terminal  
 
 ---
 
-## 🏗 Projects (Evolving)
+## 🚧 Projects (In Progress)
 
-These are not “final builds”.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
+  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="180"/>
+</p>
 
 - **Student Management System**  
-  Java • OOPs • Refactored as I learn better design
+  Java • OOPs • Continuously refactored  
 
-- **Portfolio Website**  
-  HTML • CSS • UI improving gradually
+- **Personal Portfolio Website**  
+  HTML • CSS • UI improving step by step  
 
 - **DSA Practice Repository**  
-  Java • Focused on clarity and approach
-
-Each project grows with my understanding.
+  Java • Focus on approach and clarity  
 
 ---
 
-## 🎮 Learning Through Play
+## 🎮 Learning + Practice
 
-<img align="right" width="260" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
+</p>
 
-To stay consistent and sharp:
 - LeetCode  
 - CodeChef  
 - Codingame  
-
-For focus & speed:
 - Monkeytype  
 - Keybr  
 
 ---
 
-## 🚧 Current Status
+## 🏆 Journey Markers
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGpPki5v2Bcd6Ss/giphy.gif" width="280"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=1&column=4"/>
 </p>
 
-> Student → Learner → Builder  
-> Progress over polish.
+<p align="center">
+💖 learning • 🌙 evolving • ✨ becoming
+</p>
 
 ---
 
-## 🌼 Closing Note
+## 📌 Current Status
 
-This profile will change often.  
-That’s the point.
+<p align="center">
+  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="240"/>
+</p>
 
-If you’re reviewing it today, you’re seeing **one frame of a long process**.
+- Still learning  
+- Still improving  
+- Still showing up  
+
+This profile will change —  
+that’s how growth looks.
+
+---
+
+## 🔗 Connect
+
+- GitHub: you’re already here  
+- LinkedIn: https://www.linkedin.com/in/anisha-ranjan-68b0b1357  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="260"/>
+</p>
+
+<p align="center">
+Not finished. Not pretending to be.<br/>
+<b>Just building — every day.</b>
+</p>
+
