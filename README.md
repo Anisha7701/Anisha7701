@@ -1,124 +1,119 @@
-<h2 align="center">⚡ This GitHub is a Workbench, Not a Showcase ⚡</h2>
+<h2 align="center">Building in Public. Learning in Progress.</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280"/>
 </p>
 
 <p align="center">
-<b>Nothing here is finished.</b><br/>
-Everything here is being built, broken, fixed, and improved 🚧
+This GitHub is not a portfolio.<br/>
+It’s a record of learning, mistakes, and steady improvement.
 </p>
 
 ---
 
-## 🧩 WHO IS BUILDING THIS?
+## 👩‍💻 About This Space
 
-<img align="right" width="300" src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif"/>
+<img align="right" width="280" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
 
--👋 Hi, I’m Anisha Ranjan. 💻 CS Student | 🛠 Developer in Progress | 🚀 Lifelong Learner. 🔹 "Error free is boring". 🔹 Python | Java | JS | Frontend.
+I’m a **BTech Computer Science Engineering student (2nd year)**.
 
-No perfection.  
-Only progress.
+This profile reflects:
+- concepts I’m currently learning  
+- code I’m improving, not perfecting  
+- projects that evolve as my understanding grows  
+
+I believe **real progress is visible, messy, and honest**.
+
+Everything here is **work in progress** — intentionally.
 
 ---
 
-## 🧠 SKILLS (LEVELS UNLOCKING 🎮)
+## 🧠 What I’m Learning (Right Now)
 
-### 💻 Programming (Practicing Daily)
-- Java ☕ (core focus)
+### Programming
+- Java ☕ 
 - C
-- Python
-- FrameWork7
-- MySql
+- Python 
+- My Sql
 - Adobe
-- CISCO
+- 
 
-### 🌐 Web (Foundations)
-- HTML
-- CSS
-- JavaScript
-
-### 📚 Core CS (Actively Studying)
+### Core Computer Science
 - Data Structures & Algorithms 🚧
-- OOPs
+- Object-Oriented Programming
 - DBMS
 - Operating Systems 🚧
 - Computer Networks 🚧
 
-### 🛠 Tools I Use (For Real)
-- Git & GitHub
-- VS Code
-- Terminal / Command Line
+### Web Foundations
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-## 🔄 WHAT’S HAPPENING HERE DAILY
+## 🛠 How I Work
 
-<img align="right" width="260" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img align="right" width="260" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"/>
 
-- 🔁 Solving DSA problems
-- 🧩 Writing logic-first code
-- 🛠 Improving old code instead of deleting it
-- 📌 Learning why things break
-- 🚧 Turning “I don’t get this” into “Ohhh…”
+- I write small programs and improve them
+- I revisit old code instead of deleting it
+- I focus on **logic before libraries**
+- I use Git to track thinking, not just files
 
-This profile evolves **week by week**.
-
----
-
-## 🏗 PROJECTS (UNDER CONSTRUCTION)
-
-- 🧑‍🎓 **Student Management System**  
-  Java • OOPs • Still evolving
-
-- 🌐 **Personal Portfolio Website**  
-  HTML • CSS • Improving UI step by step
-
-- 🧠 **DSA Practice Repository**  
-  Java • Clean logic • Refactoring regularly
-
-More projects will appear **when they are meaningful**, not rushed.
+Tools:
+- Git & GitHub  
+- VS Code  
+- Terminal  
 
 ---
 
-## 🎮 GAMES THAT ACTUALLY HELP ME LEARN
+## 🏗 Projects (Evolving)
 
-<img align="right" width="260" src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"/>
+These are not “final builds”.
 
-### 🧠 Coding Games
-- LeetCode
-- CodeChef
-- Codingame
+- **Student Management System**  
+  Java • OOPs • Refactored as I learn better design
 
-### ⌨️ Speed + Focus
-- Monkeytype
-- Keybr
+- **Portfolio Website**  
+  HTML • CSS • UI improving gradually
 
-Learning doesn’t have to be boring.
+- **DSA Practice Repository**  
+  Java • Focused on clarity and approach
+
+Each project grows with my understanding.
 
 ---
 
-## 🚧 STATUS
+## 🎮 Learning Through Play
+
+<img align="right" width="260" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif"/>
+
+To stay consistent and sharp:
+- LeetCode  
+- CodeChef  
+- Codingame  
+
+For focus & speed:
+- Monkeytype  
+- Keybr  
+
+---
+
+## 🚧 Current Status
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FGpPki5v2Bcd6Ss/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/l4FGpPki5v2Bcd6Ss/giphy.gif" width="280"/>
 </p>
 
-> **Student • Learner • Builder**  
-> Still loading skills… █████░░░░░
+> Student → Learner → Builder  
+> Progress over polish.
 
 ---
 
-## 🤝 CONNECT 
+## 🌼 Closing Note
 
-- GitHub: (you’re already here)
-- LinkedIn: www.linkedin.com/in/anisha-ranjan-68b0b1357
+This profile will change often.  
+That’s the point.
 
----
-
-## 🧠 FINAL WORD
-
-This is not a polished developer profile.  
-This is a **developer being built**.
-
-If you’re here early — welcome.
+If you’re reviewing it today, you’re seeing **one frame of a long process**.
