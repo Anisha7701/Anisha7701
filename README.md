@@ -1,156 +1,119 @@
-<h1 align="center">Anisha Ranjan</h1>
-
+<!-- Aesthetic Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=Anisha%20Ranjan&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-"Full-Stack Developer"
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250"/>
 </p>
 
----
-
-## 💖 About Me
+<h2 align="center">💖 Full Stack Developer 💖</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tPoyDhjiJ2g7rEs/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="150"/>
+🌸 Java • Python • C • Web Development • UI/UX • SQL 🌸
 </p>
 
-🎓 **Not showcasing expertise.**  
-🧠 **Building it.**  
-🛠 **In public.**
-
-I’m a **Computer Science Engineer**.  
-This GitHub is where I grow my skills step by step — quietly, consistently, and honestly.  
-
-I’m focused on learning fundamentals, improving my thinking,  
-and becoming better with every iteration.  
-Everything here is **work in progress**, and that’s intentional.
-
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="200"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Comic+Neue&size=22&pause=1000&color=FF69B4&center=true&width=550&lines=Code+with+Confidence+%F0%9F%92%BB;Design+with+Creativity+%F0%9F%8E%A8;Dream+Build+Repeat+%E2%9C%A8"/>
 </p>
 
 ---
 
-## 🧠 What I’m Learning (Actively)
+## 🌷 About Me
+
+🎀 Passionate **Full Stack Developer**   
+🎀 Love **coding, UI design & problem solving**  
+🎀 Turning ideas into reality with **code + creativity**
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l4HodBpDmoMA5p9bG/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/l4KibK3JwaVo0CjDO/giphy.gif" width="200"/>
-</p>
-
-### 💻 Programming & Tools
-- Java  
-- C  
-- Python  
-- Adobe  
-- MySQL  
-
-### 🧠 Core Computer Science
-- Data Structures & Algorithms 🚧  
-- Object-Oriented Programming  
-- DBMS  
-- Operating Systems 🚧  
-- Computer Networks 🚧  
-
-### 🌐 Web Basics
-- HTML  
-- CSS  
-- Bootstrap  
-- JavaScript  
-- React  
-
----
-
-## 🛠 Tools I Use
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYyda2vZTq0zv0k/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/xT0GqF8b0IhY5Xm9sA/giphy.gif" width="180"/>
-</p>
-
-- Git & GitHub  
-- VS Code  
-- Command Line / Terminal  
-
----
-
-## 🚧 Projects (In Progress)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180"/>
-  <img src="https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif" width="180"/>
-</p>
-
-- **Student Management System**  
-  Java • OOPs • Continuously refactored  
-
-- **Personal Portfolio Website**  
-  HTML • CSS • UI improving step by step  
-
-- **DSA Practice Repository**  
-  Java • Focus on approach and clarity  
-
----
-
-## 🎮 Learning + Practice
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200"/>
-</p>
-
-- LeetCode  
-- CodeChef  
-- Codingame  
-- Monkeytype  
-- Keybr  
-
----
-
-## 🏆 Journey Markers
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark&no-frame=true&row=1&column=4"/>
-</p>
-
-<p align="center">
-💖 learning • 🌙 evolving • ✨ becoming
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="180"/>
 </p>
 
 ---
 
-## 📌 Current Status
+## 🌸 Cute Coder Vibes
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif" width="240"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150"/>
 </p>
-
-- Still learning  
-- Still improving  
-- Still showing up  
-
-This profile will change —  
-that’s how growth looks.
 
 ---
 
-## 🔗 Connect
+## 💕 Tech Stack
 
-- GitHub: you’re already here  
-- LinkedIn: https://www.linkedin.com/in/anisha-ranjan-68b0b1357  
+### 👩‍💻 Languages
+<img src="https://skillicons.dev/icons?i=java,python,c,js"/>
+
+### 🌐 Web
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs"/>
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+
+### 🎨 Design & Tools
+<img src="https://skillicons.dev/icons?i=figma,ps,ai,git,github,vscode"/>
+
+---
+
+## 🌱 Currently Learning
+
+🌷 Advanced **Java & DSA**  
+🌷 **React.js** & component-based UI  
+🌷 **Backend concepts & APIs**  
+🌷 Improving **UI/UX & animations**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="160"/>
+</p>
+
+---
+
+## 🏆 Achievements & Highlights
+
+✨ Solved multiple **LeetCode problems**  
+✨ Built **real-world web projects**  
+✨ Strong foundation in **frontend + backend basics**  
+✨ Passionate about continuous learning
+
+---
+
+## 🎀 Featured Projects
+
+🌸 **AI Resume Builder**  
+✨ Smart resume creation with clean UI  
+💻 HTML • CSS • JavaScript  
+
+🌸 **Language Translator App**  
+✨ Multi-language translation (future AI features)  
+💻 JavaScript • APIs  
+
+🌸 **Mini Games Collection**  
+✨ Fun & cute browser-based games  
+💻 HTML • CSS • JavaScript  
+
+---
+
+## 🎮 Mini Games
+
+### 💖 Pink Calculator  
+✨ Aesthetic calculator with girly UI  
+
+### 🎀 Tic Tac Toe Game  
+✨ Classic game with cute UI & smooth interaction  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" width="180"/>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="260"/>
+💖 *“Code with passion, design with heart.”* 💖  
 </p>
 
-<p align="center">
-Not finished. Not pretending to be.<br/>
-<b>Just building — every day.</b>
-</p>
+" 𝑬𝑹𝑹𝑶𝑹 𝑭𝑹𝑬𝑬 𝑰𝑺 𝑩𝑶𝑹𝑰𝑵𝑮."
 
+</body>
+</html>
